@@ -4,6 +4,8 @@ LAMP image based off of base Ubuntu image
 
 ## Usage
 
+In your terminal,
+
 ```
 $ docker run -p 5000:80 -t -i $nameOfImage
 ```
