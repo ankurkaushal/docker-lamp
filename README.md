@@ -10,4 +10,6 @@ $ docker run -p 5000:80 -t -i $nameOfImage
 
 Then in your browser,
 
-$yourDockerMachineIP:5000
+```
+http://$yourDockerMachineIP:5000
+```
