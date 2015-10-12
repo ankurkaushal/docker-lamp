@@ -7,3 +7,7 @@ LAMP image based off of base Ubuntu image
 ```
 $ docker run -p 5000:80 -t -i $nameOfImage
 ```
+
+Then in your browser,
+
+$yourDockerMachineIP:5000
